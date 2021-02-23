@@ -1,2 +1,3 @@
-# wordpress-comment-blacklist
-Wordpress Comment Blacklist
+# Wordpress Comment Blacklist
+
+wordpress-comment-blacklist
